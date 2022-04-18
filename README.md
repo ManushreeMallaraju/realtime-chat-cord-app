@@ -6,6 +6,7 @@ Realtime chat app with websockets using Node.js, Express and Socket.io with Vani
 #Usage:
 
 npm install
+
 npm run dev
 
 View live demo here : https://realtime-chat-cord-app.herokuapp.com/
